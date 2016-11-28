@@ -36,5 +36,6 @@ class RandomGameNumberTest extends Specification {
 
         then:
         println 'TotalGuessCount : ' + guessCount
+        assert guessCount < 10000
     }
 }
