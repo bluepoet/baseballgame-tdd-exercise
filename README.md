@@ -5,3 +5,5 @@
 추가로, 랜덤하게 3자리 숫자를 생성하는 생성기가 몇번만에 게임넘버를 맞추는지
 
 테스트하는 RandomGameNumberTest.groovy를 추가했습니다.
+
+최범균님 숫자야구게임 TDD 동영상 : http://bit.ly/2fGnbhX
